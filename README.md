@@ -1,11 +1,15 @@
-### Hi I'm Abe 👋
+### Hi - I'm Abe 👋
 
-A passionate and enthusiast web-developer/software engineer hailing from Indonesia!
+A software engineering enthusiast hailing from Indonesia!
 
-Striving to craft software that's useful and efficient. When I'm not immersed in code, you might find me working on freelance projects or exploring new design concepts.
-My journey includes a goal of transitioning into a thriving freelance career and eventually venturing into creating innovative digital products. Feel free to reach me at hi@rzbyn.id
+Striving to craft system that's useful and efficient. When I'm not immersed in code, you might find me exploring system design principles or experimenting in the kitchen.
 
-Currently developing with Node (Typescript) and doing DevOps.
+Current focus: deepening my knowledge in system architecture, performance optimization and reliability.
+
+Currently developing: Actively working with Node (Typescript) and system design.
+
+Open to network - feel free to reach me at [hi@rzbyn.com](mailto:hi@rzbyn.com)
+
 
 <!--
 **rzbyn/rzbyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
